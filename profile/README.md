@@ -11,9 +11,9 @@
   <h3 align="center">NGcodeX ORGANISATION</h3>
 
   <p align="center">
-    Bienvenue DEV jespere que vous etes en pleine forme! Cette organisation est crée par <a href="https://github.com/PILOTEZEBS">NGUENA</a> et <a href="https://github.com/ngdream">NGUEWO</a> /DEVELOPPEURS
+    Bienvenue DEV jespere que vous etes en pleine forme! Cette organisation est crée par <a href="https://github.com/PILOTEZEBS">NGUENA »</a> et <a href="https://github.com/ngdream">NGUEWO »</a> /DEVELOPPEURS
     <br />
-    <a href="https://github.com/PILOTEZEBS"><strong>Explorer Profil Github »</strong></a>
+    <a href="#"><strong>Explorer le Site »</strong></a>
     <br />
     <br />
     <a href="">Membre de NGcodeX</a>
