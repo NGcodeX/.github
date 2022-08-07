@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## À propos du projet
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/NGcodeX/.github/blob/main/pp.png?raw=true)
+<img src="https://github.com/NGcodeX/.github/blob/main/pp.png?raw=true">
 
 Au Cœur de la Programmation, développons et bâtissons votre empire. Site web et App. Un plaisir juste pour vous </>
 
