@@ -109,7 +109,7 @@ Pour bien debuter et faire partir de notre equipe NGcodeX, il faudrait avoir:
 - [ ] Site Web (Grace a vous, nous allons developper notre propre site)
 - [x] Prise en charge multilingue
     - [x] Francais
-    - [ ] Anglais
+    - [x] Anglais
 
 
 <p align="right">(<a href="#readme-top">retour au sommet</a>)</p>
