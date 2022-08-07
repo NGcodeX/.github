@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img href="https://github.com/NGcodeX/.github/blob/main/Sans%20titsgfdre.png?raw=true" width="200" height="200">
+    <img href="https://github.com/NGcodeX/.github/blob/main/profile/aa.png?raw=true" width="200" height="200">
   </a>
 
   <h3 align="center">NGcodeX ORGANISATION</h3>
