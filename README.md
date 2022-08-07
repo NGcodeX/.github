@@ -37,7 +37,7 @@
   <h3 align="center">NGcodeX ORGANISATION</h3>
 
   <p align="center">
-    Bienvenue DEV jespere que vous etes en pleine forme! Cette organisation est crée par <a href="">NGUENA ZEBS</a> DEVELOPPEUR JAVA BACKEND Junior
+    Bienvenue DEV jespere que vous etes en pleine forme! Cette organisation est crée moi <a href="">NGUENA ZEBS</a> DEVELOPPEUR JAVA BACKEND Junior
     <br />
     <a href=""><strong>Explorer les docs »</strong></a>
     <br />
@@ -85,25 +85,26 @@
 
 <img src="https://github.com/NGcodeX/.github/blob/main/pp.png?raw=true">
 
-Au Cœur de la Programmation, développons et bâtissons votre empire. Site web et App. Un plaisir juste pour vous </>
+Au Cœur de la Programmation, développons et bâtissons notre empire. Site web et App. Un plaisir juste pour vous </> et notre communauté
 
 Voici pourquoi:
 * Notre temps devrait être concentré sur la création de quelque chose d'incroyable en java. Un projet qui résout un problème et aide les autres ou les entreprises.
-* Nous ne devrions pas faire les mêmes tâches encore et encore. Apprenons de nouvelle chose en java et batissons notre communauté.
+* Nous ne devrions pas faire les mêmes tâches encore et encore. Apprenons de nouvelle chose en java et batissons notre communauté 237.
 * Nous devrions mettre en œuvre les principes DRY pour le reste de Notre vie :smile:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
-Use the `BLANK_README.md` to get started.
+Utilisez le `README.md` pour debuter et commenter votre projet.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-### Built With
+### Construit avec
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Decouvrons ensemble JAVA 
 
+* [![Java][java.com]][JQuery-url]
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
