@@ -10,7 +10,7 @@
   <h3 align="center">NGcodeX ORGANISATION</h3>
 
   <p align="center">
-    Bienvenue DEV jespere que vous etes en pleine forme! Cette organisation est crée par moi <a href="">NGUENA ZEBS</a> DEVELOPPEUR JAVA BACKEND Junior
+    Bienvenue DEV jespere que vous etes en pleine forme! Cette organisation est crée par <a href="">NGUENA ZEBS</a> DEVELOPPEUR JAVA BACKEND Junior
     <br />
     <a href="https://github.com/PILOTEZEBS"><strong>Explorer Profil Github »</strong></a>
     <br />
