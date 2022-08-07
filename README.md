@@ -66,10 +66,9 @@
       <a href="#getting-started">Commencer</a>
       <ul>
         <li><a href="#prerequisites">Conditions préalables</a></li>
-        <li><a href="#installation">Installation serveur</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+
     <li><a href="#roadmap">Feuille de route</a></li>
     <li><a href="#contributing">Contribuant</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -123,36 +122,6 @@ Pour bien debuter et faire partir de notre equipe NGcodeX, il faudrait avoir:
 
  (...encours de Dev par NGUENA ZEBS)
 
-### Installation
-
-Pour l installation, a vous de voir la plateforme ou vous vousentez a laise. 
-
-1. VS code, VS, NetBeans, Eclipse...etc
-2. Cloner le dépôt
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Installer les packages NPM
-   ```sh
-   npm install
-   ```
-4. Entrez votre API dans `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">retour au sommet</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">retour au sommet</a>)</p>
 
 
 
@@ -195,7 +164,7 @@ Don't forget to give the project a star! Thanks again!
 
 NGcodeX - [@gcode_n](https://twitter.com/gcode_n) - ngcodex@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/PILOTEZEBS/JAVA__EE__appWeb](https://github.com/PILOTEZEBS/JAVA__EE__appWeb)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
