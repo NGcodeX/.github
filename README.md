@@ -37,9 +37,9 @@
   <h3 align="center">NGcodeX ORGANISATION</h3>
 
   <p align="center">
-    Bienvenue DEV jespere que vous etes en pleine forme! Cette organisation est crée moi <a href="">NGUENA ZEBS</a> DEVELOPPEUR JAVA BACKEND Junior
+    Bienvenue DEV jespere que vous etes en pleine forme! Cette organisation est crée par moi <a href="">NGUENA ZEBS</a> DEVELOPPEUR JAVA BACKEND Junior
     <br />
-    <a href=""><strong>Explorer les docs »</strong></a>
+    <a href=""><strong>Explorer Profil Github »</strong></a>
     <br />
     <br />
     <a href="">Membre de NGcodeX</a>
@@ -69,7 +69,7 @@
       </ul>
     </li>
     <ul>
-    <li><a href="#roadmap">Feuille de route</a></li>
+    <li><a href="#roadmap">Pages</a></li>
     <li><a href="#contributing">Contribuant</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Remerciements</a></li>
@@ -126,8 +126,8 @@ Pour bien debuter et faire partir de notre equipe NGcodeX, il faudrait avoir:
 
 
 
-<!-- ROADMAP -->
-## Feuille de route
+
+## Nos pages
 
 - [x] Page facebook
 - [x] page twiter
@@ -137,13 +137,11 @@ Pour bien debuter et faire partir de notre equipe NGcodeX, il faudrait avoir:
     - [x] Francais
     - [ ] Anglais
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">retour au sommet</a>)</p>
 
 
 
-<!-- CONTRIBUTING -->
 ## Contribuant
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -157,21 +155,21 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">retour au sommet</a>)</p>
 
 
-<!-- CONTACT -->
+
 ## Contact
 
 NGcodeX - [@gcode_n](https://twitter.com/gcode_n) - ngcodex@gmail.com
 
 Project Link: [https://github.com/PILOTEZEBS/JAVA__EE__appWeb](https://github.com/PILOTEZEBS/JAVA__EE__appWeb)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">retour au sommet</a>)</p>
 
 
 
-<!-- ACKNOWLEDGMENTS -->
+
 ## Remerciements
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
@@ -185,12 +183,11 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">retour au sommet</a>)</p>
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
