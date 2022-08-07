@@ -68,11 +68,12 @@
         <li><a href="#prerequisites">Conditions préalables</a></li>
       </ul>
     </li>
-
+    <ul>
     <li><a href="#roadmap">Feuille de route</a></li>
     <li><a href="#contributing">Contribuant</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Remerciements</a></li>
+    </ul>
   </ol>
 </details>
 
