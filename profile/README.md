@@ -4,8 +4,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="#">
-    <img href="https://github.com/NGcodeX/.github/blob/main/profile/Capsdfture.PNG?raw=true" width="200" height="200">
+   <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/NGcodeX/.github/blob/main/Sans%20titsgfdre.png?raw=true" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">NGcodeX ORGANISATION</h3>
