@@ -96,17 +96,17 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Utilisez le `README.md` pour debuter et commenter votre projet.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">retour au sommet</a>)</p>
 
 
 
 ### Construit avec
 
-Decouvrons ensemble  
+A partir de notre communauté, nous allons ensemble choisir les langage qui nous prermettrons de developper dans different domaine. merci  
 
-****TOUT LES LANGAGES
+****TOUT LES LANGAGES OU vous vous sentez Bien que se soit Front ou Back
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">retour au sommet</a>)</p>
 
 
 
@@ -118,35 +118,31 @@ Pour bien debuter et faire partir de notre equipe NGcodeX, il faudrait avoir:
 *un compte <a href="github.com">Github</a>
 *avoir une innovation en tete 😍
 *Nous rejoindre dans notre groupe Whatsapp
-*
+*...en cours d elaboration
 
-### Prerequisites
+### Conditions préalables
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+ (...encours de Dev par NGUENA ZEBS)
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Pour l installation, a vous de voir la plateforme ou vous vousentez a laise. 
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. VS code, VS, NetBeans, Eclipse...etc
+2. Cloner le dépôt
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+3. Installer les packages NPM
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Entrez votre API dans `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">retour au sommet</a>)</p>
 
 
 
