@@ -88,8 +88,8 @@
 Au Cœur de la Programmation, développons et bâtissons notre empire. Site web et App. Un plaisir juste pour vous </> et notre communauté
 
 Voici pourquoi:
-* Notre temps devrait être concentré sur la création de quelque chose d'incroyable en java. Un projet qui résout un problème et aide les autres ou les entreprises.
-* Nous ne devrions pas faire les mêmes tâches encore et encore. Apprenons de nouvelle chose en java et batissons notre communauté 237.
+* Notre temps devrait être concentré sur la création de quelque chose d'incroyable. Un projet qui résout un problème et aide les autres ou les entreprises.
+* Nous ne devrions pas faire les mêmes tâches encore et encore. Apprenons de nouvelle chose  et batissons notre communauté 237.
 * Nous devrions mettre en œuvre les principes DRY pour le reste de Notre vie :smile:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
@@ -102,27 +102,23 @@ Utilisez le `README.md` pour debuter et commenter votre projet.
 
 ### Construit avec
 
-Decouvrons ensemble JAVA 
+Decouvrons ensemble  
 
-* [![Java][java.com]][JQuery-url]
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+****TOUT LES LANGAGES
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Commencer
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+meme si vous etes debutant, nous sommes tous la pour apprendre afin detre Pro a l avenir.
+Pour bien debuter et faire partir de notre equipe NGcodeX, il faudrait avoir:
+*un compte <a href="github.com">Github</a>
+*avoir une innovation en tete 😍
+*Nous rejoindre dans notre groupe Whatsapp
+*
 
 ### Prerequisites
 
