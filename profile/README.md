@@ -73,9 +73,9 @@ Utilisez le `README.md` pour debuter et commenter votre projet.
 
 ### Construit avec
 
-A partir de notre communauté, nous allons ensemble choisir les langage qui nous prermettrons de developper dans different domaine. merci  
+A partir de notre communauté, nous allons ensemble choisir les langage qui nous prermettrons de developper dans different domaine. merci! 
 
-****TOUT LES LANGAGES OU vous vous sentez Bien que se soit Front ou Back
+****TOUT LES LANGAGES ou vous vous sentez Bien que se soit Front ou Back
 
 <p align="right">(<a href="#readme-top">retour au sommet</a>)</p>
 
@@ -84,12 +84,12 @@ A partir de notre communauté, nous allons ensemble choisir les langage qui nous
 <!-- GETTING STARTED -->
 ## Commencer
 
-meme si vous etes debutant, nous sommes tous la pour apprendre afin detre Pro a l avenir.
-Pour bien debuter et faire partir de notre equipe NGcodeX, il faudrait avoir:
-*un compte <a href="github.com">Github</a>
-*avoir une innovation en tete 😍
-*Nous rejoindre dans notre groupe Whatsapp
-*...en cours d elaboration
+même si vous êtes debutant, nous sommes tous la pour apprendre afin d'être Pro à l avenir.
+Pour bien débuter et faire partir de notre equipe NGcodeX, il faudrait avoir: <br>
+*un compte <a href="github.com">Github</a><br>
+*avoir une innovation en tête 😍.<br>
+*Nous rejoindre dans notre groupe Whatsapp, Facebook, twitter...etc<br>
+*...en cours d élaboration.
 
 ### Conditions préalables
 
