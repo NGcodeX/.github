@@ -11,7 +11,7 @@
   <h3 align="center">NGcodeX ORGANISATION</h3>
 
   <p align="center">
-    Bienvenue DEV jespere que vous etes en pleine forme! Cette organisation est crée par <a href="https://github.com/PILOTEZEBS">NGUENA »</a> et <a href="https://github.com/ngdream">NGUEWO »</a> /DEVELOPPEURS
+    Bienvenue DEV j'espere que vous êtes en pleine forme! Cette organisation est crée par <a href="https://github.com/PILOTEZEBS">NGUENA »</a> et <a href="https://github.com/ngdream">NGUEWO »</a> /DEVELOPPEURS
     <br />
     <a href="#"><strong>Explorer le Site »</strong></a>
     <br />
@@ -63,7 +63,7 @@ Au Cœur de la Programmation, développons et bâtissons notre empire. Site web 
 Voici pourquoi:
 * Notre temps devrait être concentré sur la création de quelque chose d'incroyable. Un projet qui résout un problème et aide les autres ou les entreprises.
 * Nous ne devrions pas faire les mêmes tâches encore et encore. Apprenons de nouvelle chose  et batissons notre communauté 237.
-* Nous devrions mettre en œuvre les principes DRY pour le reste de Notre vie :smile:
+* Nous devrions mettre en œuvre les principes DRY pour le reste de Notre vie :smile: .
 
 Utilisez le `README.md` pour debuter et commenter votre projet.
 
@@ -93,7 +93,7 @@ Pour bien debuter et faire partir de notre equipe NGcodeX, il faudrait avoir:
 
 ### Conditions préalables
 
- (...encours de Dev par NGUENA ZEBS)
+ (...encours de Dev par NGUENA et NGUEWO)
 
 
 
@@ -104,7 +104,7 @@ Pour bien debuter et faire partir de notre equipe NGcodeX, il faudrait avoir:
 - [x] Page facebook
 - [x] page twiter
 - [x] Group Whatsapp
-- [ ] Site Web (Grace a vous, nous allons developper notre propre site)
+- [ ] Site Web (Grâce à vous, nous allons developper notre propre site)
 - [x] Prise en charge multilingue
     - [x] Francais
     - [x] Anglais
