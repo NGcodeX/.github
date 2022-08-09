@@ -17,11 +17,11 @@
     <a href="#"><strong>Explorer le Site »</strong></a>
     <br />
     <br />
-    <a href="">Membre de NGcodeX</a>
+    <a href="#">Membre de NGcodeX: 2</a>
     ·
-    <a href="">Group Whatsapp de NGcodeX</a>
+    <a href="https://chat.whatsapp.com/JpNG0zo1eNy5AAwZEjeXcK">Group Whatsapp de NGcodeX</a>
     ·
-    <a href="">Site de NGcodeX</a>
+    <a href="#">Site de NGcodeX(en cours de dev)</a>
   </p>
 </div>
 
