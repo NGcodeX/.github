@@ -87,7 +87,7 @@ A partir de notre communauté, nous allons ensemble choisir les langage qui nous
 
 même si vous êtes debutant, nous sommes tous la pour apprendre afin d'être Pro à l avenir.
 Pour bien débuter et faire partir de notre equipe NGcodeX, il faudrait avoir: <br>
-*un compte <a href="github.com">Github</a><br>
+*un compte <a href="https://github.com/">Github</a><br>
 *avoir une innovation en tête 😍.<br>
 *Nous rejoindre dans notre groupe Whatsapp, Facebook, twitter...etc<br>
 *...en cours d élaboration.
