@@ -34,20 +34,20 @@
     <li>
       <a href="#about-the-project">À propos du projet</a>
       <ul>
-        <li><a href="#built-with">Construit avec</a></li>
+        <li><a href="#built-with"></a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Commencer</a>
+      <a href="#getting-started"></a>
       <ul>
-        <li><a href="#prerequisites">Conditions préalables</a></li>
+        <li><a href="#prerequisites"></a></li>
       </ul>
     </li>
     <ul>
     <li><a href="#roadmap">Pages</a></li>
-    <li><a href="#contributing">Contribuant</a></li>
+    <li><a href="#contributing"></a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Remerciements</a></li>
+    <li><a href="#acknowledgments"></a></li>
     </ul>
   </ol>
 </details>
