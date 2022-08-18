@@ -5,7 +5,7 @@
 <br />
 <div align="center">
    <a href="https://github.com/NGcodeX">
-    <img src="https://github.com/NGcodeX/.github/blob/main/Sans%20titsgfdre.png?raw=true" alt="Logo" width="200" height="200">
+    <img src="https://github.com/NGcodeX/.github/blob/18687c8b2007c9394769426c61316feb7023f6cc/profile/aa.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">NGcodeX ORGANISATION</h3>
@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## À propos du projet
 
-<img src="https://github.com/NGcodeX/.github/blob/main/pp.png?raw=true">
+<img src="https://github.com/NGcodeX/.github/blob/e1f49d2ee1a2ff2fe95a33668be8420ce416cbb7/profile/pp2.png">
 
 Au Cœur de la Programmation, développons et bâtissons notre empire. Site web et App. Un plaisir juste pour vous </> et notre communauté
 
