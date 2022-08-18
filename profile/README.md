@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## À propos du projet
 
-<img src="https://github.com/NGcodeX/.github/blob/main/pp.png?raw=true">
+<img src="https://github.com/NGcodeX/.github/blob/e1f49d2ee1a2ff2fe95a33668be8420ce416cbb7/profile/pp.png">
 
 Au Cœur de la Programmation, développons et bâtissons notre empire. Site web et App. Un plaisir juste pour vous </> et notre communauté
 
