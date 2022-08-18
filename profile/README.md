@@ -103,8 +103,8 @@ Pour bien débuter et faire partir de notre equipe NGcodeX, il faudrait avoir: <
 ## Nos pages
 
 - [x] Page facebook
-- [x] page twiter
-- [x] Group Whatsapp
+- [x] page twitter
+- [x] Groupe Whatsapp
 - [ ] Site Web (Grâce à vous, nous allons developper notre propre site)
 - [x] Prise en charge multilingue
     - [x] Francais
