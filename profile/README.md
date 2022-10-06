@@ -3,13 +3,13 @@
 
 # about us
 
-ngcodex is an opensource community for everyone who loves innovation, if you have innovative projects and you don't know where to find contributors, submit your project to us and we will help you
+NGCODEX is an opensource community for everyone who loves innovation, if you have innovative projects and you don't know where to find contributors, submit your project to us and we will help you
 
 
 
 # join us
 
-to join ngcodex you must have made at least 4 contributions, an invitation will be sent to you automatically
+to join NGCODEX you must have made at least 4 contributions, an invitation will be sent to you automatically
 if you want to be invited to launch an issue on the [support repository](https://github.com/NGcodeX/.support)
 
 **connect with us**
