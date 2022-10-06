@@ -17,7 +17,7 @@ if you want to be invited to launch an issue on the [support repository](https:/
 contact our main team for more details
 
 <div align="center">
-  <a href="https://github/ngdream><img src="https://avatars.githubusercontent.com/u/96875506?v=4" width="64px"></a>
+<a href="https://github/ngdream><img src="https://avatars.githubusercontent.com/u/96875506?v=4" width="64px"></a>
 <a href="https://github/pilotezebs><img src="https://avatars.githubusercontent.com/u/94785948?v=4" width="64px"></a>
 <a href="https://github/ngdream><img src="https://avatars.githubusercontent.com/u/99824627?v=4" width="64px"></a>
 </div>
