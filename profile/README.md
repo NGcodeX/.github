@@ -1,7 +1,7 @@
 
 <img src="https://github.com/NGcodeX/.github/blob/8556c2c81585ec0f16a50d8278d9529af0e0ea17/profile/ngcodexban.png" width="100%">
 <div align="center">
-<img src="https://raw.githubusercontent.com/NGcodeX/.github/6205e8c42ce025798b3f1f7c70b1be4db70a4822/profile/NGcodexOverall.svg"/>
+<a href="https://github.com/NGcodeX"><img src="https://raw.githubusercontent.com/NGcodeX/.github/6205e8c42ce025798b3f1f7c70b1be4db70a4822/profile/NGcodexOverall.svg"/></a>
 </div>
 
 # about us
