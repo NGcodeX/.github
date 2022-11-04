@@ -21,7 +21,7 @@ if you want to be invited to launch an issue on the [support repository](https:/
 
 |  🏆 FOUNDER  |  🏆 FOUNDER | 🏅 ELDER |
 | ------------- | ------------- | ------ |
-| <a href="https://github/pilotezebs"><img src="https://avatars.githubusercontent.com/u/94785948?v=4" width="64px"></a>  | <a href="https://github/ngdream"><img src="https://avatars.githubusercontent.com/u/96875506?v=4" width="64px"></a>  | <a href="https://github.com/jack0237"><img src="https://avatars.githubusercontent.com/u/99824627?v=4" width="64px"></a> |
+| <a href="https://github.com/PILOTEZEBS"><img src="https://avatars.githubusercontent.com/u/94785948?v=4" width="64px"></a>  | <a href="https://github.com/ngdream"><img src="https://avatars.githubusercontent.com/u/96875506?v=4" width="64px"></a>  | <a href="https://github.com/jack0237"><img src="https://avatars.githubusercontent.com/u/99824627?v=4" width="64px"></a> |
 | PiloteZEBS  | NGdreaM  | JACK0237 |
 
 
