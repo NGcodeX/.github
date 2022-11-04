@@ -7,7 +7,17 @@
 # about us
 
 NGCODEX is an opensource community for everyone who loves innovation, if you have innovative projects and you don't know where to find contributors, submit your project to us and we will help you
-
+<details>
+  <summary>👉👉 See More... 👈👈</summary>
+    <ul>
+      <li>Gather a set of developers regardless of level 🥳 </li>
+      <li>Work on innovative projects proposed by each developer 😍 </li>
+      <li>Builds gaming communities where every developer can live in an environment full of fun while coding 🎮🕹 </li>
+      <li>Helps every developer wanting to build their own empire in the world of technology 📈 </li>
+      <li>Devops</li>
+      <li>Offers a set of company-side business services in its entirety (web site, app, page...etc) 🚥 </li>
+    </ul>
+</details>
 
 
 # join us
