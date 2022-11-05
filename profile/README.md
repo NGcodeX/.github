@@ -7,7 +7,7 @@
 
 # about us
 
-NGCODEX is an opensource community for everyone who loves innovation, if you have innovative projects and you don't know where to find contributors, submit your project to us and we will help you
+NGCODEX is an opensource community 🌐 for everyone who loves innovation🔮, creativity; and if you have innovative projects and you don't know where to find contributors🤲, submit your project to us and we will help you in the smooth running of your project.
 <details>
   <summary>👉👉 See More... 👈👈</summary>
     <ul>
