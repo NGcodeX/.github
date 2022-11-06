@@ -4,8 +4,8 @@
 Définition des termes utilisés dans la politique de confidentialité
 On désignera par la suite :
 •	« Donnée personnelle » : se définit comme « toute information relative à une personne physique identifiée ou qui peut être identifiée, directement ou indirectement, par référence à un numéro d'identification ou à un ou plusieurs éléments qui lui sont propres », conformément à la loi Informatique et libertés du 6 janvier 1978.
-•	« Service » : le service Pikouze et l'ensemble de ses contenus.
-•	« Editeur » ou « Nous » : Amandine Cerdan, personne morale ou physique responsable de l'édition et du contenu du Service.
+•	« Service » : le service NGcodeX et l'ensemble de ses contenus.
+•	« Editeur » ou « Nous » : NGUENA ZEBS, personne morale ou physique responsable de l'édition et du contenu du Service CodeX.
 •	« Utilisateur » ou « Vous » : l'internaute visitant et utilisant le Service.
 
   Article 1 - Introduction et rôle de la Politique de confidentialité
@@ -16,7 +16,7 @@ En vous inscrivant sur le Service, vous vous engagez à nous fournir des informa
 Veuillez noter que la présente Politique de confidentialité est susceptible d’être modifiée ou complétée à tout moment, notamment en vue de se conformer à toute évolution législative, réglementaire, jurisprudentielle ou technologique. La date de sa mise à jour sera clairement mentionnée, le cas échéant.
 Ces modifications vous engagent dès leur mise en ligne et nous vous invitons donc à consulter régulièrement la présente Politique de confidentialité afin de prendre connaissance des éventuelles modifications.
 Vous trouverez également la description de vos droits à la protection de la vie privée et la façon dont la loi vous protège.
-Si vous avez des questions concernant la présente politique de confidentialité ou si vous voulez exercer vos droits tels que décrit à l’article 10 de la présente Politique de confidentialité, veuillez nous contacter par e-mail à l’adresse :ngcodex@gmail.com ou par courrier adressé à : 13 rue josette Poirson, 91070 Bondoufle.
+Si vous avez des questions concernant la présente politique de confidentialité ou si vous voulez exercer vos droits tels que décrit à l’article 10 de la présente Politique de confidentialité, veuillez nous contacter par e-mail à l’adresse :ngcodex@gmail.com ou par courrier adressé à : Simbock, YAOUNDE-CAMEROUN.
 
   Article 2 - Données collectées par l'application
 
@@ -25,11 +25,11 @@ Votre adresse IP (numéro d'identification attribué sur Internet à votre ordin
 D’une manière générale, il vous est possible de visiter le Service Pikouze sans communiquer aucune information personnelle vous concernant. Dans tous les cas, vous n’avez aucune obligation de transmettre ces informations. Néanmoins, en cas de refus, il se peut que vous ne puissiez pas bénéficier de certaines informations ou services.
 Nous recueillons, utilisons et partageons également des données agrégées telles que des données statistiques ou démographiques quel qu’en soit l’usage. Les données agrégées peuvent provenir de vos informations personnelles mais ne sont pas concernées comme telles par la loi car ces données ne révèlent pas directement votre identité. Par exemple, nous pouvons agréger vos données d’utilisation afin de calculer le pourcentage d’utilisateurs qui accèdent à une fonctionnalité spécifique du Service.
 Nous ne collectons pas de données dites « sensibles ».
-Les coordonnées des Utilisateurs du Service qui se seront inscrits sur celui-ci seront sauvegardées, dans le respect des dispositions de la loi informatique et liberté du 6 janvier 1978. Conformément à cette dernière, ils disposent d’un droit d’accès, de retrait, de modification ou de rectification des Données qu’ils ont fournies. Pour cela, il leur suffit d’en faire la demande à l’adresse électronique suivante : ngcodex@gmail.com, ou par courrier : 13 rue josette Poirson, 91070 Bondoufle .
+Les coordonnées des Utilisateurs du Service qui se seront inscrits sur celui-ci seront sauvegardées, dans le respect des dispositions de la loi informatique et liberté du 6 janvier 1978. Conformément à cette dernière, ils disposent d’un droit d’accès, de retrait, de modification ou de rectification des Données qu’ils ont fournies. Pour cela, il leur suffit d’en faire la demande à l’adresse électronique suivante : ngcodex@gmail.com, ou par courrier : Simbock, YAOUNDE-CAMEROUN .
 
    Article 3 - Identité du responsable du traitement
 
-Le responsable du traitement est Madame Amandine Cerdan.
+Le responsable du traitement est NGUEWO NGdream.
 
   Article 4 - Finalité des Données collectées
 
@@ -40,7 +40,7 @@ Le Service est susceptible de collecter et traiter les Données de ses Utilisate
 
 Les Données collectées par nos soins sont traitées pour les besoins d’exécution des opérations sur les contenus du Service.
 Vous êtes susceptible de recevoir des courriers électroniques (emails) de notre Service, notamment dans le cadre de newsletters que vous avez acceptées. Vous pouvez demander à ne plus recevoir ces courriers électroniques en nous contactant à l'adresse ngcodex@gmail.com ou sur le lien prévu à cet effet dans chacun des courriers électroniques qui vous seront adressés.
-Seule Amandine Cerdan est destinataire de vos Informations personnelles. Celles-ci ne sont jamais transmises à un tiers, nonobstant les sous-traitants auxquels Amandine Cerdan fait appel. Ni Amandine Cerdan ni ses sous-traitants ne procèdent à la commercialisation des données personnelles des visiteurs et utilisateurs de son Service.
+Seule PILOTEZEBS est destinataire de vos Informations personnelles. Celles-ci ne sont jamais transmises à un tiers, nonobstant les sous-traitants auxquels PILOTEZEBS fait appel. Ni PILOTEZEBS ni ses sous-traitants ne procèdent à la commercialisation des données personnelles des visiteurs et utilisateurs de son Service.
 Vos données personnelles peuvent être partagées avec les parties indiquées ci-dessous aux fins définies dans la présente politique de confidentialité.
 Nous exigeons que tous les tiers garantissent la sécurité de vos données personnelles et les traitent conformément à la loi. Nous ne permettons pas à nos fournisseurs de services tiers d’utiliser vos données.
 
@@ -59,8 +59,8 @@ Si vous considérez que Amandine Cerdan ne respecte pas ses obligations au regar
 
   Article 9 - Prestataires habilités et transfert vers un pays tiers de l’Union Européenne
 
-Amandine Cerdan vous informe qu’il a recours à des prestataires habilités pour faciliter le recueil et le traitement des données que vous nous avez communiquées. Ces prestataires sont situés dans l’Union Européenne exclusivement.
-Amandine Cerdan s’est préalablement assuré de la mise en œuvre par ses prestataires de garanties adéquates et du respect de conditions strictes en matière de confidentialité, d’usage et de protection des données. Ces prestataires sont également soumis au Règlement Général sur la Protection des Données (RGPD).
+NGcodeX vous informe qu’il a recours à des prestataires habilités pour faciliter le recueil et le traitement des données que vous nous avez communiquées. Ces prestataires sont situés dans l’Union Européenne exclusivement.
+NGcodeX s’est préalablement assuré de la mise en œuvre par ses prestataires de garanties adéquates et du respect de conditions strictes en matière de confidentialité, d’usage et de protection des données. Ces prestataires sont également soumis au Règlement Général sur la Protection des Données (RGPD).
 
   Article 10 - Droits informatiques et libertés
 
