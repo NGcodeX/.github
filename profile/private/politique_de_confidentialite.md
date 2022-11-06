@@ -16,7 +16,7 @@ En vous inscrivant sur le Service, vous vous engagez à nous fournir des informa
 Veuillez noter que la présente Politique de confidentialité est susceptible d’être modifiée ou complétée à tout moment, notamment en vue de se conformer à toute évolution législative, réglementaire, jurisprudentielle ou technologique. La date de sa mise à jour sera clairement mentionnée, le cas échéant.
 Ces modifications vous engagent dès leur mise en ligne et nous vous invitons donc à consulter régulièrement la présente Politique de confidentialité afin de prendre connaissance des éventuelles modifications.
 Vous trouverez également la description de vos droits à la protection de la vie privée et la façon dont la loi vous protège.
-Si vous avez des questions concernant la présente politique de confidentialité ou si vous voulez exercer vos droits tels que décrit à l’article 10 de la présente Politique de confidentialité, veuillez nous contacter par e-mail à l’adresse : Pikouze.nurse@gmail.com ou par courrier adressé à : 13 rue josette Poirson, 91070 Bondoufle.
+Si vous avez des questions concernant la présente politique de confidentialité ou si vous voulez exercer vos droits tels que décrit à l’article 10 de la présente Politique de confidentialité, veuillez nous contacter par e-mail à l’adresse :ngcodex@gmail.com ou par courrier adressé à : 13 rue josette Poirson, 91070 Bondoufle.
 
   Article 2 - Données collectées par l'application
 
@@ -25,7 +25,7 @@ Votre adresse IP (numéro d'identification attribué sur Internet à votre ordin
 D’une manière générale, il vous est possible de visiter le Service Pikouze sans communiquer aucune information personnelle vous concernant. Dans tous les cas, vous n’avez aucune obligation de transmettre ces informations. Néanmoins, en cas de refus, il se peut que vous ne puissiez pas bénéficier de certaines informations ou services.
 Nous recueillons, utilisons et partageons également des données agrégées telles que des données statistiques ou démographiques quel qu’en soit l’usage. Les données agrégées peuvent provenir de vos informations personnelles mais ne sont pas concernées comme telles par la loi car ces données ne révèlent pas directement votre identité. Par exemple, nous pouvons agréger vos données d’utilisation afin de calculer le pourcentage d’utilisateurs qui accèdent à une fonctionnalité spécifique du Service.
 Nous ne collectons pas de données dites « sensibles ».
-Les coordonnées des Utilisateurs du Service qui se seront inscrits sur celui-ci seront sauvegardées, dans le respect des dispositions de la loi informatique et liberté du 6 janvier 1978. Conformément à cette dernière, ils disposent d’un droit d’accès, de retrait, de modification ou de rectification des Données qu’ils ont fournies. Pour cela, il leur suffit d’en faire la demande à l’adresse électronique suivante : Pikouze.nurse@gmail.com, ou par courrier : 13 rue josette Poirson, 91070 Bondoufle .
+Les coordonnées des Utilisateurs du Service qui se seront inscrits sur celui-ci seront sauvegardées, dans le respect des dispositions de la loi informatique et liberté du 6 janvier 1978. Conformément à cette dernière, ils disposent d’un droit d’accès, de retrait, de modification ou de rectification des Données qu’ils ont fournies. Pour cela, il leur suffit d’en faire la demande à l’adresse électronique suivante : ngcodex@gmail.com, ou par courrier : 13 rue josette Poirson, 91070 Bondoufle .
 
    Article 3 - Identité du responsable du traitement
 
@@ -64,7 +64,7 @@ Amandine Cerdan s’est préalablement assuré de la mise en œuvre par ses pres
 
   Article 10 - Droits informatiques et libertés
 
-Conformément à la législation sur la protection des données personnelles, vous avez les droits détaillés ci-après que vous pouvez exercer, comme indiqué à l’Article 1 de la Présente Politique de confidentialité en nous écrivant à l’adresse postale mentionnée en tête (13 rue josette Poirson, 91070 Bondoufle ) ou en envoyant un courriel à Pikouze.nurse@gmail.com :
+Conformément à la législation sur la protection des données personnelles, vous avez les droits détaillés ci-après que vous pouvez exercer, comme indiqué à l’Article 1 de la Présente Politique de confidentialité en nous écrivant à l’adresse postale mentionnée en tête (13 rue josette Poirson, 91070 Bondoufle ) ou en envoyant un courriel à ngcodex@gmail.com :
 •	Le droit d’information : nous avons l’obligation de vous informer de la manière dont nous utilisons vos données personnelles (tel que décrit dans la présente politique de confidentialité).
 •	Le droit d’accès : c’est votre droit d’effectuer une demande d’accès aux données vous concernant afin de recevoir une copie des données à caractère personnel que nous détenons ; Toutefois, en raison de l’obligation de sécurité et de confidentialité dans le traitement des données à caractère personnel qui incombe à Amandine Cerdan, vous êtes informé que votre demande sera traitée sous réserve que vous rapportiez la preuve de votre identité, notamment par la production d’un scan ou d’une photocopie de votre titre d’identité valide.
 •	Le droit de rectification : le droit de nous demander de rectifier des données personnelles vous concernant qui seraient incomplètes ou inexactes. Au titre de ce droit, la législation vous autorise à demander la rectification, la mise à jour, le verrouillage ou encore l’effacement des données vous concernant qui peuvent être inexactes, erronées, incomplètes ou obsolètes.
@@ -73,13 +73,13 @@ Conformément à la législation sur la protection des données personnelles, vo
 •	Le droit à la portabilité des données : vous avez le droit de nous demander une copie de vos données personnelles dans un format courant (par exemple un fichier .csv).
 •	Le droit d’opposition : vous avez le droit de vous opposer au traitement de vos données personnelles (par exemple, en nous interdisant de traiter vos données à des fins de marketing direct).
 Cependant, l’exercice de ce droit n’est possible que dans l’une des deux situations suivantes : lorsque l’exercice de ce droit est fondé sur des motifs légitimes ou lorsque l’exercice de ce droit vise à faire obstacle à ce que les données recueillies soient utilisées à des fins de prospection commerciale.
-Contactez-nous si vous souhaitez exercer l’un des droits décrits ci-dessus en nous écrivant à 13 rue josette Poirson, 91070 Bondoufle ou par courriel à Pikouze.nurse@gmail.com
+Contactez-nous si vous souhaitez exercer l’un des droits décrits ci-dessus en nous écrivant à 13 rue josette Poirson, 91070 Bondoufle ou par courriel à ngcodex@gmail.com
 Vous n’aurez pas de frais à payer pour l’accès à vos données personnelles (ni pour l’exercice de tout autre droit). Cependant, nous pourrons vous facturer des frais raisonnables si votre demande est manifestement infondée, répétitive ou excessive. Dans ce cas, nous pouvons aussi refuser de répondre à votre demande.
 Amandine Cerdan sera en droit, le cas échéant, de s’opposer aux demandes manifestement abusives de par leur caractère systématique, répétitif, ou leur nombre.
 Nous pouvons vous demander des informations spécifiques afin de confirmer votre identité et d’assurer votre droit d’accès à vos données personnelles (ou pour exercer tout autre droit). Il s’agit d’une mesure de sécurité pour garantir que ces données personnelles ne soient pas délivrées à une personne non autorisée à les recevoir. Nous pouvons aussi vous contacter pour obtenir plus d’informations concernant votre demande, afin de vous donner une réponse plus rapide.
 Nous essayons de répondre à toutes les demandes légitimes dans un délai d’un mois. Ce délai d’un mois peut être dépassé dans le cas où votre demande est particulièrement complexe ou si vous en avez fait plusieurs. Dans ce cas, nous vous préviendrons et vous tiendrons informé.
 
-Tous droits réservés - 01 juin 2021
+Tous droits réservés - 01 novembre 2022
 
 
 
@@ -104,10 +104,10 @@ ARTICLE 1 : Mentions légales
 
 Identification de l'éditeur et de l'hébergeur du site :
 Le site Pikouze est édité par Amandine Cerdan Particulier, dont le siège social est sis au 13 rue josette Poirson, 91070 Bondoufle .
-Directeur de la publication : Amandine Cerdan, Développeur autodidacte, créateur, éditeur et gérant de Pikouze, joignable au 0672444415 ou à l'adresse Pikouze.nurse@gmail.com.
-Le site est hébergé par Amandine Cerdan. Les informations concernant la collecte et le traitement des données personnelles (politique et déclaration) sont fournies dans la charte de données personnelles de l'application.
+Directeur de la publication : NGUENA ZEBS, Développeur JAVA, créateur, éditeur et gérant de NGcodeX, joignable au +237692077005 ou à l'adresse ngcodex@gmail.com.
+Le site est hébergé par Github. Les informations concernant la collecte et le traitement des données personnelles (politique et déclaration) sont fournies dans la charte de données personnelles de l'application.
 
-Tous droits réservés - 01 juin 2021
+Tous droits réservés - 01 novembre 2022
 
 ARTICLE 2 : Accès au site
 
@@ -125,7 +125,7 @@ L’Utilisateur est responsable de la mise à jour des informations fournies. Il
 modifier en se connectant à son espace membre.
 Pour accéder aux services, l’Utilisateur devra s'identifier à l'aide de son adresse mail et de son mot de
 passe qui sont strictement personnels. A ce titre, il s’en interdit toute divulgation. Dans le cas contraire, il restera seul responsable de l’usage qui en sera fait.
-L’Utilisateur pourra également solliciter sa désinscription en envoyant un email à : pikouzenurse@gmail.com. Celle-ci sera effective dans un délai raisonnable.
+L’Utilisateur pourra également solliciter sa désinscription en envoyant un email à : ngcodex@gmail.com. Celle-ci sera effective dans un délai raisonnable.
 En cas de non respect des conditions générales d’utilisation, l'applciation Pikouze
 aura la possibilité de suspendre voire de fermer le compte d’un Utilisateur après mise en demeure adressée
 par la messagerie instantanée ou par mail et restée sans effet.
