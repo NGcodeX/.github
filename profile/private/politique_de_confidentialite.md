@@ -126,7 +126,7 @@ modifier en se connectant à son espace membre.
 Pour accéder aux services, l’Utilisateur devra s'identifier à l'aide de son adresse mail et de son mot de
 passe qui sont strictement personnels. A ce titre, il s’en interdit toute divulgation. Dans le cas contraire, il restera seul responsable de l’usage qui en sera fait.
 L’Utilisateur pourra également solliciter sa désinscription en envoyant un email à : ngcodex@gmail.com. Celle-ci sera effective dans un délai raisonnable.
-En cas de non respect des conditions générales d’utilisation, l'applciation Pikouze
+En cas de non respect des conditions générales d’utilisation, NGcodeX
 aura la possibilité de suspendre voire de fermer le compte d’un Utilisateur après mise en demeure adressée
 par la messagerie instantanée ou par mail et restée sans effet.
 Toute suppression de compte, quel qu’en soit le motif, engendre la suppression pure et simple de toutes
@@ -144,7 +144,7 @@ L'application assure à l'Utilisateur une collecte et un traitement d'informatio
 privée conformément à la loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 Le développeur a tout mit en oeuvre pour que les conditions ci-jointes soient celles recommandées par la CNIL.
 En vertu de la loi Informatique et Libertés, en date du 6 janvier 1978, l'Utilisateur dispose d'un droit d'accès,
-de rectification, de suppression et d'opposition de ses données personnelles. L'Utilisateur exerce ce droit par mail à pikouzenurse@gmail.com
+de rectification, de suppression et d'opposition de ses données personnelles. L'Utilisateur exerce ce droit par mail à ngcodex@gmail.com
 
 ARTICLE 4 : Propriété intellectuelle
 
@@ -173,7 +173,7 @@ tenue responsable de l’utilisation et de l’interprétation de l’informatio
 L'Utilisateur s'assure de garder son mot de passe secret. Toute divulgation du mot de passe, quelle que soit sa
 forme, est interdite. Il assume les risques liés à l'utilisation de son identifiant et mot de passe. L'application décline
 toute responsabilité.
-L'application Pikouze ne peut être tenu pour responsable d’éventuels virus qui pourraient infecter
+NGcodeX ne peut être tenu pour responsable d’éventuels virus qui pourraient infecter
 l’ordinateur ou tout matériel informatique de l’Internaute, suite à une utilisation, à l’accès, ou au
 téléchargement provenant de cette application.
 La responsabilité de l'application ne peut être engagée en cas de force majeure ou du fait imprévisible et
