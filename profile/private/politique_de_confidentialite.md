@@ -39,7 +39,7 @@ Le Service est susceptible de collecter et traiter les Données de ses Utilisate
   Article 5 - Destinataires et utilisation des Données collectées
 
 Les Données collectées par nos soins sont traitées pour les besoins d’exécution des opérations sur les contenus du Service.
-Vous êtes susceptible de recevoir des courriers électroniques (emails) de notre Service, notamment dans le cadre de newsletters que vous avez acceptées. Vous pouvez demander à ne plus recevoir ces courriers électroniques en nous contactant à l'adresse Pikouze.nurse@gmail.com ou sur le lien prévu à cet effet dans chacun des courriers électroniques qui vous seront adressés.
+Vous êtes susceptible de recevoir des courriers électroniques (emails) de notre Service, notamment dans le cadre de newsletters que vous avez acceptées. Vous pouvez demander à ne plus recevoir ces courriers électroniques en nous contactant à l'adresse ngcodex@gmail.com ou sur le lien prévu à cet effet dans chacun des courriers électroniques qui vous seront adressés.
 Seule Amandine Cerdan est destinataire de vos Informations personnelles. Celles-ci ne sont jamais transmises à un tiers, nonobstant les sous-traitants auxquels Amandine Cerdan fait appel. Ni Amandine Cerdan ni ses sous-traitants ne procèdent à la commercialisation des données personnelles des visiteurs et utilisateurs de son Service.
 Vos données personnelles peuvent être partagées avec les parties indiquées ci-dessous aux fins définies dans la présente politique de confidentialité.
 Nous exigeons que tous les tiers garantissent la sécurité de vos données personnelles et les traitent conformément à la loi. Nous ne permettons pas à nos fournisseurs de services tiers d’utiliser vos données.
