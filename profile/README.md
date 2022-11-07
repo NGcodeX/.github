@@ -1,7 +1,6 @@
-<img src="https://github.com/NGcodeX/.github/blob/8556c2c81585ec0f16a50d8278d9529af0e0ea17/profile/ngcodexban.png" width="100%">
-<div align="right"><img alt="open collective badge" src="https://opencollective.com/ngcodex/tiers/backer.svg?avatarHeight=36"/> </div>
+<img src="https://github.com/NGcodeX/.github/blob/8556c2c81585ec0f16a50d8278d9529af0e0ea17/profile/ngcodexban.png" width="100%"> <h2><a href="http://eepurl.com/ic39T5">🖐ADD_ME!✔</a></h2>
+<div align="right"><img alt="open collective badge" src="https://opencollective.com/ngcodex/tiers/backer.svg?avatarHeight=36"/></div>
 <div align="center">
- <a href="http://eepurl.com/ic39T5"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/rejoignez-nous-maintenant-bouton-signe-cl%C3%A9-poussoir-banni%C3%A8re-180927376-removebg-preview.png?raw=true" width="150px" height="100px"/></a>
 <a href="https://github.com/NGcodeX"><img src="https://raw.githubusercontent.com/NGcodeX/.github/6205e8c42ce025798b3f1f7c70b1be4db70a4822/profile/NGcodexOverall.svg"/></a>
  <a href="https://opencollective.com/ngcodex"><img src="https://github.com/NGcodeX/.github/blob/main/profile/paypal-donate-1024x512-removebg-preview.png?raw=true" width="300px" height="170px" title="Donate"/></a>
 </div>
