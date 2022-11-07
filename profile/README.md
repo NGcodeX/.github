@@ -28,6 +28,8 @@ if you want to be invited to launch an issue on the [support repository](https:/
 
 **connect with us**
 
+<a href="https://us12.list-manage.com/contact-form?u=12755ffa96fc01ec5b68b0dd4&form_id=d0467e4046fefb5c84ff07e563224626"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/Contact-Us-PNG-Download-Free-Image.png?raw=true" width="100px" height="50px"/></a>
+
 ## contact our main team for more details
 <div align="center">
 
