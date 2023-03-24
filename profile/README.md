@@ -32,14 +32,3 @@ if you want to be invited to launch an issue on the [support repository](https:/
 ## <a href="https://ngcodex.slack.com/">ngcodex.slack</a>
 
 <a href="https://us12.list-manage.com/contact-form?u=12755ffa96fc01ec5b68b0dd4&form_id=d0467e4046fefb5c84ff07e563224626"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/Contact-Us-PNG-Download-Free-Image.png?raw=true" width="100px" height="50px" title="Contact us"/></a>   <a href="https://web.facebook.com/groups/ngcodexcommunity"><img src="https://github.com/NGcodeX/.github/blob/main/profile/t%C3%A9l%C3%A9chargement%20(11).png?raw=true" height="50px" width="170px" title="NGcodeX community"/></a>  <a href="https://opencollective.com/ngcodex"><img src="https://github.com/NGcodeX/.github/blob/main/profile/button@2x.png?raw=true" height="50px" width="230px" title="Opencollective"/></a>
-
-## contact our main team for more details
-<div align="center">
-
-|  🏆 FOUNDER  |  ✔ Info |
-| ------------- | ------------- |
-| <a href="https://github.com/NGUENAZEBS" align="center"><img src="https://avatars.githubusercontent.com/u/120027323?v=4" title="PILOTEZEBS" width="94px"></a>  | <a href="https://github.com/NGcodeX"><img src="https://raw.githubusercontent.com/NGcodeX/.github/1e890889a6c96e1e3e681546d6297c430c7309c6/profile/NGcodeXgithub.svg"/></a>  |
-  | <h4 align="center"><a href="https://github.com/NGUENAZEBS">PiloteZEBS</a></h4>  | <h4 align="center">NGcodeX</h4>  |
-
-</div>
-
