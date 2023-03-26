@@ -24,8 +24,8 @@ NGCODEX is an opensource community 🌐 for everyone who loves innovation🔮, c
 
 ## JOIN US
 
-to join NGCODEX you must have made at least 4 contributions, an invitation will be sent to you automatically
-if you want to be invited to launch an issue on the [support repository](https://github.com/NGcodeX/.support)
+to join NGCODEX you must have made at least 2 contributions, an invitation will be sent to you automatically
+if you want to be invited to launch an issue on the support repository
 
 ## CONNECT WITH US**
 
