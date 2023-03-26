@@ -8,7 +8,7 @@
 
 ## ABOUT US
 
-NGcodeX is an opensource community 🌐 for [everyone](https://github.com/orgs/NGcodeX/people) who loves [innovation🔮](#), [creativity](#); and if you have innovative projects and you don't know where to find contributors🤲, [submit](#) your project to us and we will help you in the smooth running of your project.
+NGcodeX is an opensource [community](#) 🌐 for [everyone](https://github.com/orgs/NGcodeX/people) who loves [innovation🔮](#), [creativity](#); and if you have innovative projects and you don't know where to find contributors🤲, [submit](#) your project to us and we will help you in the smooth running of your project.
 <details>
   <summary>👉👉 See More... 👈👈</summary>
     <ul>
@@ -24,7 +24,7 @@ NGcodeX is an opensource community 🌐 for [everyone](https://github.com/orgs/N
 
 ## JOIN US
 
-to join NGCODEX you must have made at least 2 contributions, an invitation will be sent to you automatically
+to join NGCODEX you must have made at least [2 contributions](#) and click on [ADD_ME](#);  invitation will be sent to you automatically
 if you want to be invited to launch an issue on the support repository
 
 ## CONNECT WITH US**
