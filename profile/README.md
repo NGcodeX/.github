@@ -40,5 +40,5 @@ if you want to be invited to launch an issue on the support repository
 
 
 
-<a href="">politique_de_confidentialité NGcodeX</a>
+<a href="https://github.com/NGcodeX/.github/blob/main/profile/private/politique_de_confidentialite.md">politique_de_confidentialité NGcodeX</a>
 </div>
