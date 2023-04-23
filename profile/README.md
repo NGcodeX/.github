@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%2336BCF7&lines=🖐ADD_ME✅)](https://eepurl.com/ic39T5)
 <div align="center">
 <a href="https://github.com/NGcodeX"><img src="https://raw.githubusercontent.com/NGcodeX/.github/6205e8c42ce025798b3f1f7c70b1be4db70a4822/profile/NGcodexOverall.svg"/></a>
- <a href="https://opencollective.com/ngcodex"><img src="https://github.com/NGcodeX/.github/blob/main/profile/paypal-donate-1024x512-removebg-preview.png?raw=true" width="250px" height="130px" title="Donate"/></a>
+ <a href="https://opencollective.com/ngcodex"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/ngcodex692-removebg-preview.png?raw=true" height="220px" title="Donate"/></a>
 </div>
 
 ## ABOUT US
