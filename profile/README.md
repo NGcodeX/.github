@@ -1,6 +1,6 @@
 <img src="https://github.com/NGcodeX/.github/blob/main/profile/private/NGcodeX.gif?raw=true"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%2336BCF7&lines=🖐ADD_ME✅)](https://eepurl.com/ic39T5)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%2336BCF7&lines=🖐click+here+to+register✅)](https://eepurl.com/ic39T5)
 <div align="center">
  <a href="https://opencollective.com/ngcodex"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/ngcodex6920-removebg-preview.png?raw=true" height="150px"></a>
 <a href="https://github.com/NGcodeX"><img src="https://raw.githubusercontent.com/NGcodeX/.github/6205e8c42ce025798b3f1f7c70b1be4db70a4822/profile/NGcodexOverall.svg"/></a>
