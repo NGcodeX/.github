@@ -1,4 +1,4 @@
-<img src="https://github.com/NGcodeX/.github/blob/8556c2c81585ec0f16a50d8278d9529af0e0ea17/profile/ngcodexban.png" width="100%"></a>
+<img src="https://github.com/NGcodeX/.github/blob/main/profile/private/NGcodeX.gif?raw=true"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%2336BCF7&lines=🖐ADD_ME✅)](https://eepurl.com/ic39T5)
 <div align="center">
