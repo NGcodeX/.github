@@ -37,7 +37,7 @@ if you want to be invited to launch an issue on the support repository
 
 | 🏆 Founder 🏆 | ✔ |
 | -- | -- |
-| <a href="https://github.com/NGUENAZEBS" align="center"><img src="https://avatars.githubusercontent.com/u/120027323?v=4" wight="100" height="100"/><br>CodeurZEBS</a>  |  <img src="https://raw.githubusercontent.com/NGcodeX/.github/1f35360a423ca70bd71f3405a951727b2b7083df/profile/NGcodeXgithub.svg"/>  | 
+| <a href="https://github.com/NGUENAZEBS" align="center"><img src="https://github.com/NGUENAZEBS/NGUENAZEBS/blob/main/.github/workflows/Private/ZBS-removebg-preview.png?raw=true"  height="100"/><br>CodeurZEBS</a>  |  <img src="https://raw.githubusercontent.com/NGcodeX/.github/1f35360a423ca70bd71f3405a951727b2b7083df/profile/NGcodeXgithub.svg"/>  | 
 
 
 
