@@ -14,13 +14,13 @@ source for all will allow students or contributors to be able to adapt from the 
 <details>
   <summary>👉👉 See More... 👈👈</summary>
   Thus, we have 3 modules:
- <div>- 
+ <div> 
   
   [- NGcodeX Enterprise;](https://github.com/NGcodeX/NGcodeX_Server)</div>
- <div>- 
+ <div>
   
   [- NGcodeX Gaming;](https://github.com/NGcodeX/NGcodeX_Server)</div>
- <div>- 
+ <div>
   
   [- NGcodeX dev session;](https://github.com/NGcodeX/NGcodeX_Server)</div>
     <ul>
