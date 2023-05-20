@@ -25,8 +25,7 @@
 
 ## JOIN US
 
-to join NGCODEX you must have made at least [2 contributions](https://github.com/NGcodeX/Your-First-PullRequest) and click on [ADD_ME](https://eepurl.com/ic39T5);  invitation will be sent to you automatically
-if you want to be invited to launch an issue on the support repository
+to join NGCODEX you must have made at least [2 contributions](https://github.com/NGcodeX/Your-First-PullRequest/issues)(solve 2 issues for your contribution) and click on [ADD_ME](https://eepurl.com/ic39T5);  the invitation will be sent to you automatically if you followed the steps carefully
 
 ## CONNECT WITH US**
 
