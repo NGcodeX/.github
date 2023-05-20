@@ -9,9 +9,14 @@
 
 ## ABOUT US
 
-[NGcodeX](https://github.com/orgs/NGcodeX/projects/3) is an opensource [community](https://docs.github.com/fr/site-policy/github-terms/github-community-guidelines) 🌐 for [everyone](https://education.github.com/students) who loves [innovation🔮](#), [creativity](#); and if you have innovative projects and you don't know where to find contributors🤲, [submit](#) your project to us and we will help you in the smooth running of your project.
+[NGcodeX](https://github.com/orgs/NGcodeX/projects/3) is an opensource [community](https://docs.github.com/fr/site-policy/github-terms/github-community-guidelines) 🌐 for [everyone](https://education.github.com/students) who loves [innovation🔮](#), [creativity](#); our open community
+source for all will allow students or contributors to be able to adapt from the basics to a corporate life while learning, innovating and contributing to projects in team but also in an entertaining community thanks to video games, company visits, etc. and if you have innovative projects and you don't know where to find contributors🤲, [submit](#) your project to us and we will help you in the smooth running of your project.
 <details>
   <summary>👉👉 See More... 👈👈</summary>
+  Thus, we have 3 modules:
+ <div>- [NGcodeX Enterprise;](https://github.com/NGcodeX/NGcodeX_Server)</div>
+ <div>- [NGcodeX Gaming](https://github.com/NGcodeX/NGcodeX_Server)</div>
+ <div>- [NGcodeX dev session](https://github.com/NGcodeX/NGcodeX_Server)</div>
     <ul>
       <li>Gather a set of developers regardless of level 🥳 </li>
       <li>Work on innovative projects proposed by each developer 😍 </li>
