@@ -51,5 +51,5 @@ to join NGCODEX you must have made at least [2 contributions](https://github.com
 
 
 
-<a href="https://github.com/NGcodeX/.github/blob/main/profile/private/politique_de_confidentialite.md">politique_de_confidentialité NGcodeX</a>
+[privacy_policy NGcodeX](https://github.com/NGcodeX/.github/blob/main/profile/private/politique_de_confidentialite.md)
 </div>
