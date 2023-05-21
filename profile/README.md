@@ -51,7 +51,7 @@ to join NGCODEX you must have made at least [2 contributions](https://github.com
 
 |  |  |
 | -- | -- |
-| <img src="https://raw.githubusercontent.com/NGcodeX/.github/3ba07ccaf86c1bb7f6fbb57efbf103b9d46936d1/profile/private/ngcodex1.svg"> | <img src="https://raw.githubusercontent.com/NGcodeX/.github/cf20b720fb9d91cc2f030e3926fd6cfd2be87898/profile/private/ngcodex2.svg"> |
+| <a href="https://github.com/orgs/NGcodeX/projects"><img src="https://raw.githubusercontent.com/NGcodeX/.github/3ba07ccaf86c1bb7f6fbb57efbf103b9d46936d1/profile/private/ngcodex1.svg"></a> | <a href="https://github.com/orgs/NGcodeX/discussions"><img src="https://raw.githubusercontent.com/NGcodeX/.github/cf20b720fb9d91cc2f030e3926fd6cfd2be87898/profile/private/ngcodex2.svg"></a> |
  
  
 [privacy_policy NGcodeX](https://github.com/NGcodeX/.github/blob/main/profile/private/politique_de_confidentialite.md)
