@@ -31,15 +31,10 @@ source for all will allow students or contributors to be able to adapt from the 
     </ul>
 </details>
 
-
-## JOIN US
-
-to join NGCODEX you must have made at least [2 contributions](https://github.com/NGcodeX/Your-First-PullRequest/issues)(solve 2 issues for your contribution) and click on [ADD_ME](https://eepurl.com/ic39T5);  the invitation will be sent to you automatically if you followed the steps carefully
-
 ## CONNECT WITH US**
 
 <div align="center">
-<a href="https://us12.list-manage.com/contact-form?u=12755ffa96fc01ec5b68b0dd4&form_id=d0467e4046fefb5c84ff07e563224626"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/Contact-Us-PNG-Download-Free-Image.png?raw=true" width="100" height="50" title="Contact NGcodeX"/></a><a href="https://stackoverflowteams.com/c/ngcodex"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/ngcodexstackteam.png?raw=true" height="70px" width="170px" title="NGcodeX stack overflow" alt=""></a><a href="https://teams.live.com/l/invite/FEAeIfpg9OXRst-JgM"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/microsoft-transparent-logo-free-png%20(1).png?raw=true" title="NGcodeX team" height="100px" width="170px"></a>   <a href="https://web.facebook.com/groups/ngcodexcommunity"><img src="https://github.com/NGcodeX/.github/blob/main/profile/t%C3%A9l%C3%A9chargement%20(11).png?raw=true" height="50px" width="170px" title="NGcodeX community"/></a>  <a href="https://opencollective.com/ngcodex"><img src="https://github.com/NGcodeX/.github/blob/main/profile/button@2x.png?raw=true" height="40px" width="220px" title="Opencollective"/></a>
+<a href="https://ngcodex.com/contact/"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/Contact-Us-PNG-Download-Free-Image.png?raw=true" width="100" height="50" title="Contact NGcodeX"/></a><a href="https://stackoverflowteams.com/c/ngcodex"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/ngcodexstackteam.png?raw=true" height="70px" width="170px" title="NGcodeX stack overflow" alt=""></a><a href="https://teams.live.com/l/invite/FEAeIfpg9OXRst-JgM"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/microsoft-transparent-logo-free-png%20(1).png?raw=true" title="NGcodeX team" height="100px" width="170px"></a>   <a href="https://web.facebook.com/groups/ngcodexcommunity"><img src="https://github.com/NGcodeX/.github/blob/main/profile/t%C3%A9l%C3%A9chargement%20(11).png?raw=true" height="50px" width="170px" title="NGcodeX community"/></a>  <a href="https://opencollective.com/ngcodex"><img src="https://github.com/NGcodeX/.github/blob/main/profile/button@2x.png?raw=true" height="40px" width="220px" title="Opencollective"/></a>
 
 
 
