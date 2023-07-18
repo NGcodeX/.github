@@ -36,16 +36,5 @@ source for all will allow students or contributors to be able to adapt from the 
 <div align="center">
 <a href="https://ngcodex.com/contact/"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/Contact-Us-PNG-Download-Free-Image.png?raw=true" width="100" height="50" title="Contact NGcodeX"/></a><a href="https://stackoverflowteams.com/c/ngcodex"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/ngcodexstackteam.png?raw=true" height="70px" width="170px" title="NGcodeX stack overflow" alt=""></a><a href="https://teams.live.com/l/invite/FEAeIfpg9OXRst-JgM"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/microsoft-transparent-logo-free-png%20(1).png?raw=true" title="NGcodeX team" height="100px" width="170px"></a>   <a href="https://web.facebook.com/groups/ngcodexcommunity"><img src="https://github.com/NGcodeX/.github/blob/main/profile/t%C3%A9l%C3%A9chargement%20(11).png?raw=true" height="50px" width="170px" title="NGcodeX community"/></a>  <a href="https://opencollective.com/ngcodex"><img src="https://github.com/NGcodeX/.github/blob/main/profile/button@2x.png?raw=true" height="40px" width="220px" title="Opencollective"/></a>
 
-
-
-| 🏆 Founder 🏆 | ✔ |
-| -- | -- |
-| <a href="https://github.com/codeurzebs" align="center"><img src="https://github.com/codeurzebs/codeurzebs/blob/main/.github/workflows/Private/ZBS-removebg-preview.png?raw=true"  height="100"/><br>CodeurZEBS</a>  |  <img src="https://raw.githubusercontent.com/NGcodeX/.github/1f35360a423ca70bd71f3405a951727b2b7083df/profile/NGcodeXgithub.svg"/>  | 
-
-|  |  |
-| -- | -- |
-| <a href="https://github.com/orgs/NGcodeX/projects"><img src="https://raw.githubusercontent.com/NGcodeX/.github/3ba07ccaf86c1bb7f6fbb57efbf103b9d46936d1/profile/private/ngcodex1.svg"></a> | <a href="https://github.com/orgs/NGcodeX/discussions"><img src="https://raw.githubusercontent.com/NGcodeX/.github/cf20b720fb9d91cc2f030e3926fd6cfd2be87898/profile/private/ngcodex2.svg"></a> |
- 
- 
 [privacy_policy NGcodeX](https://github.com/NGcodeX/.github/blob/main/profile/private/politique_de_confidentialite.md)
 </div>
