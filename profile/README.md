@@ -1,40 +1,12 @@
+# [✨ngcodex.com](https://ngcodex.com)
 <img src="https://github.com/NGcodeX/.github/blob/main/profile/private/NGcodeX.gif?raw=true"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%2336BCF7&lines=🖐click+here+to+register✅)](https://ngcodex.com/dev-session/#newuser)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%2336BCF7&lines=🖐join+us)](https://ngcodex.com/dev-session/#newuser)
 <div align="center">
 <a href="https://github.com/NGcodeX"><img src="https://raw.githubusercontent.com/NGcodeX/.github/6205e8c42ce025798b3f1f7c70b1be4db70a4822/profile/NGcodexOverall.svg"/></a>
 </div>
 
-## ABOUT US
-
-[NGcodeX](https://ngcodex.com/) is an opensource [community](https://github.com/NGcodeX/NGcodeX_Members) 🌐 for [everyone](https://education.github.com/students) who loves [innovation🔮](https://ngcodex.com/dev-session/), [creativity](https://ngcodex.com/dev-session/#meeting); our open community
-source for all will allow students or contributors to be able to adapt from the basics to a corporate life while learning, innovating and contributing to projects in team but also in an entertaining community thanks to video games, company visits, etc. and if you have innovative projects and you don't know where to find contributors🤲, [submit](https://ngcodex.com/entreprise) your project to us and we will help you in the smooth running of your project.
-<details>
-  <summary>See More... </summary>
-  Thus, we have 3 modules:
- <div> 
-  
-  [- NGcodeX Enterprise;](https://ngcodex.com/entreprise)</div>
- <div>
-  
-  [- NGcodeX Gaming;](https://ngcodex.com/gaming/)</div>
- <div>
-  
-  [- NGcodeX dev session;](https://ngcodex.com/dev-session/)</div>
-    <ul>
-      <li>Gather a set of developers regardless of level 🥳 </li>
-      <li>Work on innovative projects proposed by each developer 😍 </li>
-      <li>Builds gaming communities where every developer can live in an environment full of fun while coding 🎮🕹. </li>
-      <li>Helps every developer wanting to build their own empire in the world of technology 📈 </li>
-      <li>DeVops/ Cybersecurity TPE/PME</li>
-      <li>Offers a set of company-side business services in its entirety (web site, app, page...etc) 🚥 </li>
-    </ul>
-</details>
-
-## CONNECT WITH US**
-
 <div align="center">
-<a href="https://ngcodex.com/contact/"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/Contact-Us-PNG-Download-Free-Image.png?raw=true" width="100" height="50" title="Contact NGcodeX"/></a><a href="https://stackoverflowteams.com/c/ngcodex"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/ngcodexstackteam.png?raw=true" height="70px" width="170px" title="NGcodeX stack overflow" alt=""></a><a href="https://teams.live.com/l/invite/FEAeIfpg9OXRst-JgM"><img src="https://github.com/NGcodeX/.github/blob/main/profile/private/microsoft-transparent-logo-free-png%20(1).png?raw=true" title="NGcodeX team" height="100px" width="170px"></a> <a href="https://opencollective.com/ngcodex"><img src="https://github.com/NGcodeX/.github/blob/main/profile/button@2x.png?raw=true" height="40px" width="220px" title="Opencollective"/></a>
 
-[privacy_policy NGcodeX](https://github.com/NGcodeX/.github/blob/main/profile/private/politique_de_confidentialite.md)
+## [🔮 ABOUT US](https://github.com/NGcodeX/NGcodeX-Community)
 </div>
