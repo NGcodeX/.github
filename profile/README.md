@@ -12,3 +12,4 @@
 <a href="https://opencollective.com/ngcodex" title="NGcodeX-OpenCollective" alt="NGcodeX-OpenCollective">
   <img src="https://opencollective.com/ngcodex/tiers/patron.svg?avatarHeight=86"/>
 </a>
+</div>
