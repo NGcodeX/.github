@@ -1,7 +1,7 @@
 # [🔮 ABOUT Club](https://github.com/NGcodeX/NGcodeX-Community)
 <img src="https://github.com/NGcodeX/.github/blob/main/profile/private/NGcodeX.gif?raw=true"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%2336BCF7&lines=🖐join+us)](https://ngcodex.com/dev-session/#newuser)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%2336BCF7&lines=🖐Click+join+us)](https://ngcodex.com)
 <div align="center">
 
 ##  ✍"Hello World"👨‍💻>>AI🤖
