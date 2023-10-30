@@ -25,6 +25,7 @@
 </a>
 
   👮‍♂️Club President: [🟢CodeurZEBS](https://github.com/codeurzebs)
+  👮‍♂️Club vice-President: [ngdream](https://github.com/ngdream)
 </div>
 
 ###
