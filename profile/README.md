@@ -24,7 +24,7 @@
   <img src="https://opencollective.com/ngcodex/tiers/patron.svg?avatarHeight=86"/>
 </a>
 
-  👮‍♂️Club President: [🟢CodeurZEBS](https://github.com/codeurzebs)
+  👮‍♂️Club President: [🟢CodeurZEBS](https://github.com/codeurzebs) <br>
   👮‍♂️Club vice-President: [ngdream](https://github.com/ngdream)
 </div>
 
