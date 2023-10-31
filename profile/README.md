@@ -1,6 +1,6 @@
 [![NGCODEX BANNER](https://github.com/NGcodeX/.github/blob/main/profile/private/ngcodexBan.jpg?raw=true)](https://github.com/NGcodeX)
 # 🔮 ABOUT Club
-  [NGcodeX](https://ngcodex.com) is a dynamic 😇[student community](https://github.com/NGcodeX/NGcodeX_Members) (every student) that focuses on three main modules: 👩‍💻[Dev Session](https://ngcodex.com/dev-session/), 🎮[Gaming](https://ngcodex.com/gaming/), 💼[Enterprise](https://ngcodex.com/entreprise/). We aim to create an inclusive environment where Student developers([Tools](https://ngcodex.com/download/)), gaming enthusiasts, and professionals can learn, [collaborate](https://github.com/orgs/NGcodeX/discussions), and contribute to various [projects](https://github.com/orgs/NGcodeX/projects), AI...[See more➕](https://github.com/NGcodeX/NGcodeX-Community)
+  [🟢NGcodeX](https://ngcodex.com) is a dynamic 😇[student community](https://github.com/NGcodeX/NGcodeX_Members) (every student) that focuses on three main modules: 👩‍💻[Dev Session](https://ngcodex.com/dev-session/), 🎮[Gaming](https://ngcodex.com/gaming/), 💼[Enterprise](https://ngcodex.com/entreprise/). We aim to create an inclusive environment where Student developers([Tools](https://ngcodex.com/download/)), gaming enthusiasts, and professionals can learn, [collaborate](https://github.com/orgs/NGcodeX/discussions), and contribute to various [projects](https://github.com/orgs/NGcodeX/projects), AI...[See more➕](https://github.com/NGcodeX/NGcodeX-Community)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%2336BCF7&lines=🖐join+us)](https://ngcodex.com)
@@ -16,15 +16,11 @@
 <div align="center">
 
 ###  ✍"Hello World"👨‍💻>>AI🤖
-<a href="https://github.com/NGcodeX"><img src="https://raw.githubusercontent.com/NGcodeX/.github/6205e8c42ce025798b3f1f7c70b1be4db70a4822/profile/NGcodexOverall.svg" width="25%"/></a>
 </div>
-
 <div align="center">
 <a href="https://opencollective.com/ngcodex" title="NGcodeX-OpenCollective" alt="NGcodeX-OpenCollective">
   <img src="https://opencollective.com/ngcodex/tiers/patron.svg?avatarHeight=86"/>
 </a>
-
-  👮‍♂️Club President: [🟢CodeurZEBS](https://github.com/codeurzebs)
 </div>
 
 ###
