@@ -3,11 +3,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%2336BCF7&lines=🖐join+us)](https://ngcodex.com)
-<div align="center">
-  <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/25189185-c672-485c-b5e0-68741b2899dc" title="NGcodeX-Microsoft Learn Student Ambassador" alt="">
-  <img src="https://github.com/NGcodeX/.github/blob/main/profile/private/MSLearn_SA_badge_generic_rgb_300ppi.png?raw=true" width="25%" title="NGcodeX-Microsoft Learn Student Ambassador"/>
-</a>
-</div>
+
 <div align="center">
 
 ###  ✍"Hello World"👨‍💻>>AI🤖
